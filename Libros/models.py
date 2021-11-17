@@ -16,4 +16,5 @@ class Computadoras(models.Model):
     marca = models.CharField(max_length=200, help_text='Marca del Computador')
     serie = models.CharField(max_length=200, help_text='Serie')
     precio = models.FloatField(max_length=200, help_text='Precio')
+    modelo = models.CharField(max_length=200, help_text='Modelo')
 

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb82e29c-cbe6-47ce-a378-8e264c4a4c15" name="Changes" comment="" />
+    <list default="true" id="cb82e29c-cbe6-47ce-a378-8e264c4a4c15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libros/migrations/0006_computadoras_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libros/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libros/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libros/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libros/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="205mY417MPLBV5ws2rtw5AT1wud" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +58,7 @@
       <workItem from="1636553235779" duration="176000" />
       <workItem from="1636553421911" duration="807000" />
       <workItem from="1637072657397" duration="608000" />
-      <workItem from="1637151295207" duration="1359000" />
+      <workItem from="1637151295207" duration="1750000" />
     </task>
     <servers />
   </component>
